@@ -7,13 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Git Test  Page
-	
-	무언가 수정이되야 하나? 
-	
-	
-	푸하하하하 낄낄낄낄
-	
+	이것도 나와라 뿅  별별별
 	
 </body>
 </html>
